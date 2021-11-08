@@ -1,1 +1,2 @@
-console.log("{{products}}")
+console.log("Products")
+console.log({{products}})
